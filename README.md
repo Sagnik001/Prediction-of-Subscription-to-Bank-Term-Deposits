@@ -12,8 +12,7 @@ So In this project I will predict if a client will subscribe (yes/no) to a term 
 # Data-Set
 This project will utilize a dataset of 45211 consumers and distributed by the UCI Machine Learning Repository. Here is the URL : https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
-age--Age of the client <br/>
-(categorical: admin/blue-collar/entrepreneur/housemaid/management/retired/selfemployed/services/student/technician/unemployed/unknown) <br/>
+age--Age of the client (categorical: admin/blue-collar/entrepreneur/housemaid/management/retired/selfemployed/services/student/technician/unemployed/unknown)
 job--Type of job <br/>
 (categorical: divorced/married/single/unknown ; note: 'divorced' means divorced or widowed) <br/>
 marital--Marital status of the client <br/>
