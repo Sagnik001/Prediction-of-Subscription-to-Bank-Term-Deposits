@@ -1,1 +1,1 @@
-# Prediction-of-Subscription-to-Bank-Term-Deposits
+# Prediction of Subscription to Bank Term Deposits
