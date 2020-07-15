@@ -11,9 +11,7 @@ So In this project I will predict if a client will subscribe (yes/no) to a term 
 
 # Data-Set
 ID--Unique client ID
-
-age--Age of the client
-
+age--Age of the client\n
 job--Type of job
 marital--Marital status of the client
 education--Education level
