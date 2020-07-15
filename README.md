@@ -26,4 +26,4 @@ campaign--Number of contacts performed during this campaign to the client <br/>
 pdays--Number of days that passed by after the client was last contacted <br/>
 previous--Number of contacts performed before this campaign <br/>
 poutcome--Outcome of the previous marketing campaign <br/>
-Subscribed(target)--Has the client subscribed a term deposit? <br/>
+Subscribed(target)--Has the client subscribed a term deposit?(yes/no) <br/>
