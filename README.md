@@ -11,19 +11,19 @@ So In this project I will predict if a client will subscribe (yes/no) to a term 
 
 # Data-Set
 ID--Unique client ID <br/>
-age--Age of the client
-job--Type of job
-marital--Marital status of the client
-education--Education level
-default--Credit in default.
-housing--Housing loan
-loan--Personal loan
-contact--Type of communication
-month--Contact month
-day_of_week--Day of week of contact
-duration--Contact duration
-campaign--Number of contacts performed during this campaign to the client
-pdays--Number of days that passed by after the client was last contacted
-previous--Number of contacts performed before this campaign
-poutcome--Outcome of the previous marketing campaign
-Subscribed(target)--Has the client subscribed a term deposit?
+age--Age of the client <br/>
+job--Type of job <br/>
+marital--Marital status of the client <br/>
+education--Education level <br/>
+default--Credit in default. <br/>
+housing--Housing loan <br/>
+loan--Personal loan <br/>
+contact--Type of communication <br/>
+month--Contact month <br/>
+day_of_week--Day of week of contact <br/>
+duration--Contact duration <br/>
+campaign--Number of contacts performed during this campaign to the client <br/>
+pdays--Number of days that passed by after the client was last contacted <br/>
+previous--Number of contacts performed before this campaign <br/>
+poutcome--Outcome of the previous marketing campaign <br/>
+Subscribed(target)--Has the client subscribed a term deposit? <br/>
